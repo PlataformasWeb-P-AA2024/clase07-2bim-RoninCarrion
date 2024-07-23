@@ -6,6 +6,7 @@
       [<span><router-link to="/estudiantes">Estudiantes</router-link></span>]
       [<span><router-link to="/telefonos">Teléfonos</router-link></span>]
       [<span><router-link to="/telefonos-dos">Teléfonos 2</router-link></span>]
+      [<span><router-link to="/edificios">Ver edificios</router-link></span>]
 
   </nav>
   <router-view></router-view>
